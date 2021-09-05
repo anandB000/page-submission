@@ -1,4 +1,4 @@
-** Page Submission **
+## **Page Submission**
 Contributors: anand000
 Donate link: https://profiles.wordpress.org/anand000/
 Tags: Post Form, Front-end post, Forntend, Post form, Form
@@ -10,11 +10,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 The guest author should be able to create a post from front side.
 
-** Description **
+## **Description**
 
 Page Submission plugin gives front end post form interface using shortcode [wpps-form], Using this interface, the guest author should be able to create post with selected post type. And it have separte page to display the posts respect to logged-in user help of shortcode [wpps-blog].
 
-** Installation **
+## **Installation**
 
 ## This is interview task plugin.
 
@@ -24,12 +24,12 @@ Page Submission plugin gives front end post form interface using shortcode [wpps
 4. Click the "Install now"
 5. Click the "Activate Plugin"
 
-** Shortcode **
+## **Shortcode**
 
 1. Front-end form [wpps-form]
 2. Blog page listing post [wpps-blog]
 
-** Changelog **
+## **Changelog**
 
-## 1.0
+**1.0**
 * Plugin released
